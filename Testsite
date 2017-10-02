@@ -1,11 +1,49 @@
 <!DOCTYPE html>
-<html lang = "sv"
+
 <head>
 
     <meta charset = "utf-8">
     <title>Page title</title>
+
  </head>
+
  <body>
- This is a test page just to see that everything is going as intended.
+ En liten kort sammanfattaning om vad vi gick över idag:<br> <br>
+Vi började med att gå igenom de ett par viktiga begrepp som ger ett litet övergrepp om vad som kommer att användas när vi skriver HTML koder. Ett bra exempel som vi gick igenom var när vi kollade på oilika protokoller som när man skriver in vissa sidor.<br><br>
+Information angången vilka koder som webbserversn brukar returnera. Där koder som börjar med 2 oftast är positiva då det tyder att anropet misslyckades. Dock, koder som börjar med antingen 4 eller 5 tyder på fel. Ett standard exempel som många känner igen är:<b> Error 404 "not found.<br><br>
+</b>  Taggens anatomi visar hur vi kan lägga in vissa element så att man kan tydliggöra koden när den visar i visuell form. <br><br>
+
+I samband med detta så kommer jag också att lägga några element för att tydliggöra att det finns en förståelse om hur det ligger till med CSS(när vi börjar med det. <br>
+
+<!--
+<tr>
+
+<th>Christopher</th>
+<th>Hermansson Kekev</th>
+<th>21</th>
+<tr>
+-->
+<form>
+First name:<br>
+<input type ="text" name ="firstname"><br>
+Last name: <br>
+<input type="text" name = "lastname">
+</form> <br><br><br>
+
+
+<ul><h1> Viktiga saker som är bra att veta när man skall tävla i Tekken:</h1>
+<li style="color:red"> Se till att få tillräckligt med sömn</li>
+<li style="color:red"> Ha någon form av dryck med dig </li>
+<li style="color:red"> Sätt ett realistiskt mål om du är osäker var du ligger i skicklighetsnivån</li>
+<li style ="color:red"> Prata med dina motståndare och träffa på nya människor</li>
+<li style="color:red"> Ha kul!</li>
+
+</ul>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RsS3-ncLGYA" frameborder="0" allowfullscreen></iframe>
+
+
+
  </body>
  </html>
